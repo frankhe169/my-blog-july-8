@@ -23,7 +23,7 @@ function App() {
     <div className="app">
       <div className="header">        
           <h2>My Blog</h2>
-          <img src="trumpportraitt-632x800.jpg"></img>
+          <img src="myimg.png"></img>
       </div>
 
       <div className="content">
